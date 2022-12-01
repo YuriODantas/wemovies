@@ -6,6 +6,10 @@ export const Container = styled.div`
   align-items: center;
   margin-right: 52px;
   
+  @media (max-width: 768px) {
+    margin-right: 30px;
+  }
+
   @media (max-width: 375px) {
     margin-right: 0;
   }

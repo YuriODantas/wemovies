@@ -12,6 +12,10 @@ export const Container = styled.div`
   border-radius: 4px;
   padding: 24px;
   
+  @media (max-width: 425px) {
+    width: 385px;
+  }
+
   @media (max-width: 375px) {
     width: 343px;
   }

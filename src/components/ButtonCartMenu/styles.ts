@@ -22,6 +22,10 @@ export const Title = styled.p`
   font-weight: 600;
   color: #FFF;
 
+  @media (max-width: 425px) {
+    display: none;
+  }
+
   @media (max-width: 375px) {
     display: none;
   }

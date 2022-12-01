@@ -6,6 +6,12 @@ export const Container = styled.img`
   width: 89px;
   height: 114px;
 
+  @media (max-width: 768px) {
+    margin-right: 24px;
+    width: 64px;
+    height: 82px;
+  }
+
   @media (max-width: 375px) {
     margin-right: 16px;
     width: 64px;

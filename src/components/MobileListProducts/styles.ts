@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   width: 100%;
-  @media (min-width: 376px) {
+
+  @media (min-width: 426px) {
     display: none;
   }
 `

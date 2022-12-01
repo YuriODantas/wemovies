@@ -13,6 +13,10 @@ export const Price = styled.p`
   color: #2F2E41;
   margin-right: 192px;
   
+  @media (max-width: 768px) {
+    margin-right: 30px;
+  }
+
   @media (max-width: 375px) {
     margin-right: 0;
   }
@@ -22,7 +26,7 @@ export const Title = styled.p`
   font-size: 12px;
   color: #999999;
   
-  @media (min-width: 376px) {
+  @media (min-width: 426px) {
     display: none;
   }
 `
