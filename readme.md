@@ -15,6 +15,7 @@
  * [Axios](https://axios-http.com/docs/intro)
  * [React-router-dom](https://www.npmjs.com/package/react-router-dom)
  * [VS Code](https://code.visualstudio.com/)
+ * [Vite](https://vitejs.dev/)
 
 ## Instalação e uso da Aplicação
 
@@ -42,4 +43,4 @@ yarn dev
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/license) para mais detalhes.
